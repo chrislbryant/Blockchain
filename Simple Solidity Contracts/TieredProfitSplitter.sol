@@ -1,6 +1,5 @@
 pragma solidity ^0.5.0;
 
-// lvl 2: tiered split
 contract TieredProfitSplitter {
     address payable employee_one; // ceo
     address payable employee_two; // cto
@@ -12,7 +11,6 @@ contract TieredProfitSplitter {
         employee_three = _three;
     }
 
-    // Should always return 0! Use this to test your `deposit` function's logic
     function balance() public view returns(uint) {
         return address(this).balance;
     }
@@ -22,12 +20,10 @@ contract TieredProfitSplitter {
         uint total;
         uint amount;
 
-        // @TODO: Calculate and transfer the distribution percentage
         amount = points * 60;
         total += amount;
         employee_one.transfer(amount);
 
-        // @TODO: Repeat the previous steps for `employee_two` and `employee_three`
         amount = points *25;
         total += amount;
         employee_two.transfer(amount);

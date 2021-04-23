@@ -25,32 +25,34 @@ Tiered ProfitSplitter distributes percentages of ether taken into contract among
 Deferred Equity Plan models stock plans and manages annual distributions of shares for an employee of the company.
 
 ## Associate Profit Splitter Deployed
-![alt text](Images/AssociateProfitSplitterDeployed.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterDeployed.PNG)
 
 
 ## Associate Profit Splitter Before Deposit
-![alt text](Images/AssociateProfitSplitterBeforeDeposit.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterBeforeDeposit.PNG)
 
 
 ## Associate Profit Splitter After Deposit
-![alt text](Images/AssociateProfitSplitterAfterDeposit.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterAfterDeposit.PNG)
 
 
 ## Tiered Profit Splitter Deployed
-![alt text](Images/TieredProfitSplitterDeployed.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterDeployed.PNG)
 
 
 ## Tiered Profit Splitter Before Deposit
-![alt text](Images/TieredProfitSplitterBeforeDeposit.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterBeforeDeposit.PNG)
 
 
 ## Tiered Profit Splitter After Deposit
-![alt text](Images/TieredProfitSplitterAfterDeposit.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterAfterDeposit.PNG)
 
 
 ## Deferred Equity Plan Deployed
-![alt text](Images/DeferredEquityPlanDeployed.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DeferredEquityPlanDeployed.PNG)
 
 
 ## We do not have real shares for this contract it is merely a model/simulation, but we can see successful contract interactions
-![alt text](Images/DeferredEquityPlanContractInteraction.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DeferredEquityPlanContractInteraction.PNG)
+
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DefrerredEquityPlanFastForward.PNG)
