@@ -25,34 +25,34 @@ Tiered ProfitSplitter distributes percentages of ether taken into contract among
 Deferred Equity Plan models stock plans and manages annual distributions of shares for an employee of the company.
 
 ## Associate Profit Splitter Deployed
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterDeployed.PNG)
+![Associate Profit Splitter Deployed](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterDeployed.PNG)
 
 
 ## Associate Profit Splitter Before Deposit
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterBeforeDeposit.PNG)
+![Associate Profit Splitter Before Deposit](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterBeforeDeposit.PNG)
 
 
 ## Associate Profit Splitter After Deposit
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterAfterDeposit.PNG)
+![Associate Profit Splitter After Deposit](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/AssociateProfitSplitterAfterDeposit.PNG)
 
 
 ## Tiered Profit Splitter Deployed
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterDeployed.PNG)
+![Tiered Profit Splitter Deployed](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterDeployed.PNG)
 
 
 ## Tiered Profit Splitter Before Deposit
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterBeforeDeposit.PNG)
+![Tiered Profit Splitter Before Deposit](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterBeforeDeposit.PNG)
 
 
 ## Tiered Profit Splitter After Deposit
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterAfterDeposit.PNG)
+![Tiered Profit Splitter After Deposit](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/TieredProfitSplitterAfterDeposit.PNG)
 
 
 ## Deferred Equity Plan Deployed
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DeferredEquityPlanDeployed.PNG)
+![Deferred Equity Plan Deployed](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DeferredEquityPlanDeployed.PNG)
 
 
 ## We do not have real shares for this contract it is merely a model/simulation, but we can see successful contract interactions
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DeferredEquityPlanContractInteraction.PNG)
+![Deferred Equity Plan Contract Interaction](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DeferredEquityPlanContractInteraction.PNG)
 
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DefrerredEquityPlanFastForward.PNG)
+![Defrerred Equity Plan Fast Forward](https://github.com/chrislbryant/Blockchain/blob/main/Simple%20Solidity%20Contracts/Images/DefrerredEquityPlanFastForward.PNG)

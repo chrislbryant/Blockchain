@@ -24,7 +24,7 @@ Below are a few examples of Ethereum and Bitcon Testnet transactions completed w
 ## These are the test accounts used to send transactions:
 
 
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/test_accounts.PNG)
+![test accounts](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/test_accounts.PNG)
 
 
 
@@ -32,7 +32,7 @@ Below are a few examples of Ethereum and Bitcon Testnet transactions completed w
 ## A successful Bitcoin Testnet transaction between the Bitcoin Testnet accounts in our wallet!
 
 
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/btctest_transaction.PNG)
+![btctest transaction](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/btctest_transaction.PNG)
 
 
 
@@ -40,7 +40,7 @@ Below are a few examples of Ethereum and Bitcon Testnet transactions completed w
 ## A successful Ethereum transaction between the Ethereum accounts in our wallet! 
 
 
-![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/eth_transaction.PNG)
+![eth transaction](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/eth_transaction.PNG)
 
 
 

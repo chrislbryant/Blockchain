@@ -5,7 +5,7 @@
 ### To start Node 1 navigate to to the Blockchain Tools Folder and open a bash terminal. 
 
 
-![alt text](Images/blockchain_folder.png)
+![blockchain folder](Images/blockchain_folder.png)
 
 ### In the terminal enter the following command:
 * ./geth --datadir node1 --unlock "0x386BA5F736b0d20b3E9b4CE6e76E8c99F3476Bd3" --mine --miner.threads 2 --rpc --allow-insecure-unlock
@@ -16,13 +16,13 @@
 * Enter your password
 
 
-![alt text](Images/enter_password.png)
+![enter password](Images/enter_password.png)
 
 
 ### Here is a screenshot of both Nodes working
 
 
-![alt text](Images/mining.png)
+![mining](Images/mining.png)
 
 ### Instructions to connect MyCrypto to the Nodes above. 
 1) Click Change Network
@@ -34,7 +34,7 @@
 3) Setup Node according to screenshot (my network is already setup, that is why we are seeing an error message)
 
 
-![alt text](Images/network_setup.png)
+![network setup](Images/network_setup.png)
 
 
 4) Select the custom network
@@ -42,7 +42,7 @@
 
 
 
-![alt text](Images/select_network.png)
+![select network](Images/select_network.png)
 
 
 ### Instructions to send a transaction with MyCrypto
@@ -56,17 +56,17 @@
 3) Select a Wallet address to send ETH to
 
 
-![alt text](Images/transaction.png)
+![transaction](Images/transaction.png)
 
 
 4) We can see the transaction is recieved by the network
 
 
-![alt text](Images/transaction_recieved.png)
+![transaction recieved](Images/transaction_recieved.png)
 
 
 5) We can confirm our transaction was successful by selecting TX status from the MyCrypto main menu
 
 
-![alt text](Images/transaction_success.png)
+![transactionsuccess](Images/transaction_success.png)
  

@@ -1,45 +1,13 @@
-# The last wallet you will ever need
+# Project Approval with a Smart Contract
 
-This "universal wallet" can manage numerous addresses across 300+ cyptocoins. The wallet currently supports Ethereum and Bitcon Testnet currencies. I made use of 3 python libraries to manage the creation of accounts and transactions for specific currencies.
+This project roleplays a governing body using this DAPP to approve a project such as a school. Multiple projects can be listed however this demonstration uses a single project. After all 5 approvals have been given the person in charge of releasing funds (account 5) has access to a previously hidden button that releases the funds accross four accounts.
 
-<strong>HD-Wallet-Derive</strong> - manages the crypto account creation. 
+The DAPP uses:
 
+* Ganche
+* Truffle Pet Shop
+* Solidity
+* Javascript
+* HTML
 
-<strong>Bit</strong> - manages Bitcoin Testnet accounts and transactions.
-
-
-<strong>Eth_Account</strong> - manages Ethereum accounts.
-
-
-<strong>Web3</strong> - manages Ethereum transactions.
-
-
-<strong>HD-Wallet-Derive</strong> is a command line tool that supports BIP32, BIP39, and BIP44, and also supports non-standard derivation paths for the most popular wallets out there today!
-
-<strong>HD-Wallet-Derive</strong> requires <strong>PHP v.7.3.xx</strong> and the HD_Wallet_Derive_Install_Guide in this folder will guide you through the process of intalling all the neccessary PHP dependencies. Once you have the PHP dependencies go to https://github.com/dan-da/hd-wallet-derive, find the section Installation and Running. Follow those steps and do not try the script until you have successfully run the test example.
-
-Below are a few examples of Ethereum and Bitcon Testnet transactions completed with this script.
-
-
-## These are the test accounts used to send transactions:
-
-
-
-![alt text](Screenshots/test_accounts.png)
-
-
-## A successful Bitcoin Testnet transaction between the Bitcoin Testnet accounts in our wallet!
-
-
-
-![alt text](Screenshots/btctest_transaction.png)
-
-
-## A successful Ethereum transaction between the Ethereum accounts in our wallet! 
-
-
-
-![alt text](Screenshots/eth_transaction.png)
-
-
-## Yeah! We successfully created a wallet with 2 Bitcoin Testnet accounts and 2 Ethereum acccounts using the <strong>HD-Wallet-Derive</strong> library. First using the <strong>Bit</strong> library we were able to send and recieve a Bitcoin Testnet transaction. Then using the <strong>Eth_Account</strong> and <strong>Web3</strong> we sent and recieved an Ethereum transaction.
+![Project Approval](https://github.com/chrislbryant/Blockchain/blob/main/Project%20Approval%20with%20Solidity%20and%20Truffe/Images/Project%20Approval.mkv)
