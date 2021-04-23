@@ -32,14 +32,14 @@ These are the test accounts used to send transactions:
 
 
 
-![alt text](Screenshots/btctest_transaction.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/eth_transaction.PNG)
 
 
 ## A successful Ethereum transaction between the Ethereum accounts in our wallet! 
 
 
 
-![alt text](Screenshots/eth_transaction.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/test_accounts.PNG)
 
 
 ## Yeah! We successfully created a wallet with 2 Bitcoin Testnet accounts and 2 Ethereum acccounts using the <strong>HD-Wallet-Derive</strong> library. First using the <strong>Bit</strong> library we were able to send and recieve a Bitcoin Testnet transaction. Then using the <strong>Eth_Account</strong> and <strong>Web3</strong> we sent and recieved an Ethereum transaction.
