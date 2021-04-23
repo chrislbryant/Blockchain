@@ -25,7 +25,7 @@ These are the test accounts used to send transactions:
 
 
 
-![alt text](Screenshots/test_accounts.png)
+![alt text](https://github.com/chrislbryant/Blockchain/blob/main/Using%20Python%20to%20Send%20BTC%20and%20ETH%20Transactions/Screenshots/btctest_transaction.PNG)
 
 
 ## A successful Bitcoin Testnet transaction between the Bitcoin Testnet accounts in our wallet!
